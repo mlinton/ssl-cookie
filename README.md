@@ -1,7 +1,7 @@
 ssl-cookie
 ==========
 
-OpenSSL Cookie Stealer
+OpenSSL Cookie Finder
 Cloned from https://gist.github.com/mitsuhiko/10130454
 Credit to https://github.com/mitsuhiko and http://s3.jspenguin.org/ssltest.py
 
